@@ -1,0 +1,6 @@
+C:\Users\Isaac\Documents\Projects\Practica No. 8\Practica_8\Practica8\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\Isaac\Documents\Projects\Practica No. 8\Practica_8\Practica8\Practica8\bin\Debug\Practica8.exe
+C:\Users\Isaac\Documents\Projects\Practica No. 8\Practica_8\Practica8\Practica8\bin\Debug\Practica8.pdb
+C:\Users\Isaac\Documents\Projects\Practica No. 8\Practica_8\Practica8\Practica8\obj\x86\Debug\Practica8.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Documents\Projects\Practica No. 8\Practica_8\Practica8\Practica8\obj\x86\Debug\Practica8.exe
+C:\Users\Isaac\Documents\Projects\Practica No. 8\Practica_8\Practica8\Practica8\obj\x86\Debug\Practica8.pdb
